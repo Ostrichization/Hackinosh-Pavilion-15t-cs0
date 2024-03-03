@@ -40,6 +40,5 @@ Wake up from sleep - I have to click the trackpad or a button on the keyboard to
 
 ## FAQ
 - Q: Why am I getting a prohibited logo when trying to install MacOS Sonoma?
-  
   A: MacOS Sonoma is not supported for this processor.
 
