@@ -10,7 +10,7 @@ This OpenCore config works for HP Pavilion 15t-cs0
 * [Writeup Template](https://github.com/dragonflylee/Yoga730-hackintosh)
 
 ## What is not working
-NVIDIA GeForce MX150 - NVIDIA!
+NVIDIA GeForce MX150 - NVIDIA!                          
 MacOS Sonoma - Kaby Lake 7th gen not supported!
 ## What is half working
 ELAN Touchpad - Sometimes stops working and I need to put the computer into sleep mode and log in again.
@@ -31,7 +31,7 @@ Wake up from sleep - I have to click the trackpad or a button on the keyboard to
 * [SSDT-EC-USBX-LAPTOP](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-USBX-LAPTOP.aml)
 * [SSDT-PNLF](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PNLF.aml)
 * [SSDT-XOSI](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-XOSI.aml)
-## BIOS setting before install
+## BIOS settings to change before install
 * Disable Security -> Secure Boot
 * Switch RAID to AHCI in Configuration -> SATA Controller Mode (Preset)
 ## To fix internal hard drive not being detected during install
